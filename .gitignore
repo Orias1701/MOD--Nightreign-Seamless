@@ -12,3 +12,6 @@
 
 # 5. Các file cần thiết khác
 !nrsc_launcher.exe
+!dlllist.txt
+!winmm.dll
+!OnlineFix*
